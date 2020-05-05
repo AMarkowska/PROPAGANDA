@@ -2,10 +2,6 @@
 
 # Is it always bad and how archiving it helps us understand the past?
 
----
-
----
-
 # THE ARTEFACT
 
 In the archive, at IISH, I was mostly drawn to objects and collections concerning women. Among them, I found pieces from USSR and made them my research focus. Below you'll find a full list of objects I looked at and some that I marked as interesting.
@@ -47,26 +43,31 @@ The book was published as a piece of propaganda targeted at the Western populati
 
 </p>
 </details>
-
-- About the author of the book
-
-    I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman. I am trying to find some information about her. 
-
-    [Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)
-
-    Found this Wikipedia entry in Cyrillic but it google translates pretty ok.
-
-    [](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)
-
-    - her name is Ногина, Ольга Павловна
-    - 1885 - 1977
+<details><summary>About the author of the book</summary>
+<p>
+I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman.</br>
+        [Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)</br>
+        Found this Wikipedia entry in Cyrillic but it google translates pretty ok.</br>
+    [](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)</br>
+    * Her name is Ногина, Ольга Павловна
+    * 1885 - 1977
     - Soviet paediatrician, Honoured Doctor of the RSFSR , organizer of Soviet health care
-    - she worked with a group of Bolsheviks led by V. I. Lenin
-    - she headed the maternity and infancy protection department of the health department of the Khamovnichesky district of Moscow
-    - under Stalin she suffered many mistreatments so no surprise that she had a sentiment for Lenin
-    - 1934 - Head of the Department for the Protection of Maternity and Infancy of the People's Commissariat of Health
-    - worked on creation of a network of women's and children's health care facilities, in training personnel, and in promoting Soviet health care
-    - she wrote around 30 books on and around the subject of health and wellbeing
+    - She worked with a group of Bolsheviks led by V. I. Lenin
+    - She headed the maternity and infancy protection department of the health department of the Khamovnichesky district of Moscow
+    - Under Stalin she suffered many mistreatments so no surprise that she had a sentiment for Lenin
+    - In 1934 - Head of the Department for the Protection of Maternity and Infancy of the People's Commissariat of Health
+    - Worked on creation of a network of women's and children's health care facilities, in training personnel, and in promoting Soviet health care
+    - She wrote around 30 books on and around the subject of health and wellbeing
+    
+    * Item
+    * Item
+
+
+</p>
+</details>
+
+
+   
 - Where can you find this book outside of the archive?
 
     This book is surprisingly wide spread. I found it in several libraries.
