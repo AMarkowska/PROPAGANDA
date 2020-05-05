@@ -95,16 +95,15 @@ The book is often listed with this fake cover. Publishing date suggests that the
 
 # IMPORTANT QUESTIONS AND TERMS
 
-Captive Wife is a term from 60'-70' describing women that were encouraged to be stay at home mums and housewives. It was part of the after war propaganda in the west. After was and many lives lost more children were needed ad a future insurance. Also men that came back from war needed a goal in life therefore there was a need to give them jobs to keep them thinking only about that. Women were occupying a lot of that positions therefore it was decided that they should focus on having children and free the occupations.
+*Captive Wife* is a term from 60'-70' describing women that were encouraged to be stay at home mums and housewives. It was part of the after war propaganda in the west. After was and many lives lost more children were needed ad a future insurance. Also men that came back from war needed a goal in life therefore there was a need to give them jobs to keep them thinking only about that. Women were occupying a lot of that positions therefore it was decided that they should focus on having children and free the occupations.
 
-A few male-made ideas for females destroyed by other males → about the book
+*A few male-made ideas for females destroyed by other males* → about the book
 
- Production of contemporary Captive Wives
+ *Production of contemporary Captive Wives*
 
  Is propaganda always bad?
 
- Why?
-
+ *Why?*
 If this book and its contents was so important for the USSR to be translated, printed and sent to other countries wouldn't it be important to keep it spread an accessible. If it was so crucial to share it should be shared and shared and shared. Quite mindlessly. That's why I want to explore the most mass, accessible and easiest to reconstruct methods. 
 Another challenge is how to make it accessible to masses in the future? 
 Because I am sure it will survive if spread so greatly.
@@ -115,57 +114,45 @@ Because I am sure it will survive if spread so greatly.
 
 ## Strategy
 
-It would be easier to focus on a selected situation and then think about sub-scenarios and develop accordingly.
+*It would be easier to focus on a selected situation and then think about sub-scenarios and develop accordingly.*
 
 ### Strategy 1
 
-ABILITY TO REPRODUCE CONTENT:
+|ABILITY TO REPRODUCE CONTENT:|||
+|---|---|---|
+| A. matters: |B. does not matter so much:|C. does not matter at all:|
+|1. and it needs to be reproduced or kept exactly as it is.|1. and it can be reproduced exactly.|1. what matters is exactly recreating physical aspects of the book.|
+|2. and it needs to be reproduced or kept exactly how it is with all its physical qualities. |2. and it just needs to give you an idea.|2. what matters is exactly recreating physical experience of the book.|
+|3. and it doesn't need to be reproduced or kept exactly how it is.|3. and it just needs to give you a notion.
+|4. and it doesn't need to be reproduced or kept exactly how it is with all its physical qualities.|4. and it just needs to make you think of the subject.
 
-A. matters:
-
-1. and it needs to be reproduced or kept exactly as it is.
-2. and it needs to be reproduced or kept exactly how it is with all its physical qualities. 
-3. and it doesn't need to be reproduced or kept exactly how it is.
-4. and it doesn't need to be reproduced or kept exactly how it is with all its physical qualities.
-
-B. does not matter so much:
-
-1. and it can be reproduced exactly.
-2. and it just needs to give you an idea.
-3. and it just needs to give you a notion.
-4. and it just needs to make you think of the subject.
-
-C. does not matter at all:
-
-1. what matters is exactly recreating physical aspects of the book.
-2. what matters is exactly recreating physical experience of the book.
 
 ### Strategy 2
 
-REPRODUCTION IS FOUND, not made:
-
-1. reproductions I found (made by others)
-2. reprint of the same book
-3. translation
+|REPRODUCTION IS FOUND, not made:|
+|---|
+|1. reproductions I found (made by others)|
+|2. reprint of the same book|
+|3. translation|
 
 ### Strategy 3
 
-VISUAL REPRODUCTION is what matters:
-
-1. exact visual reproduction.
-2. subjective visual reproduction.
+|VISUAL REPRODUCTION is what matters:|
+|---|
+|1. exact visual reproduction.|
+|2. subjective visual reproduction.|
 
 ## Focus
 
-Focus on two approaches; mass and minimum production.
+→ Focus on two approaches; mass and minimum production.
 
-Meaningless mass reproduction of worthless, mostly unfulfilled, and false ideas.
+*Meaningless mass reproduction of worthless, mostly unfulfilled, and false ideas.*
 
-What is the relation between propaganda and an institution of an archive?
+→ What is the relation between propaganda and an institution of an archive?
 
-How "usable" the archive itself is?
+→ How "usable" the archive itself is?
 
-Is keeping really the mean of saving - subjectivity of language as a medium.
+*Is keeping really the mean of saving - subjectivity of language as a medium.*
 
 ## My small transcodings:
 
