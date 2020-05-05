@@ -22,24 +22,31 @@ As the list is chronological it also shows how I got better with using the archi
 
 ![https://i.pinimg.com/originals/c8/81/84/c881846cbbcda531815828d64993a6a4.jpg](https://i.pinimg.com/originals/c8/81/84/c881846cbbcda531815828d64993a6a4.jpg)
 
-Book summary:
+*Book summary:
 → women are equal to men (by revolution!)
 → raising children and childcare are a common effort
-→ having or not having children is a free choice
+→ having or not having children is a free choice*
 
 The entire book in high quality pictures.
 
 [the book](https://drive.google.com/drive/folders/1rAQ68o4MT1pCa_SZJ0aqsiEx6oc_v7AA)
 
-[Information about the book found at the archive](https://www.notion.so/3b8e6a90c29c47f891cbacb0b06a1553)
+| Author:  | Nogina, O.P  |
+|---|---|
+|  Language: | Undetermined  |
+|  Published: |  Moscow, 1950. |
+|  IISH Classification: |  R 688 (Russia; Soviet Union 1917 - 1987; society, culture; family, women, children) |
+|  Call number: |  IISG R 688/37 |
+|  Link: |  https://hdl.handle.net/10622/55C8B892-816B-4E27-9B4E-BA19C015A9F2 |
 
-- About the publishing house
-
-    The book was published as a piece of propaganda targeted at the Western population.
-
+<details><summary>About the publishing house</summary>
+<p>
+The book was published as a piece of propaganda targeted at the Western population.
     [Foreign Languages Publishing House (Soviet Union)](https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))
+    *It is actually quite amusing that China and North Korea still have institutions like that.*
 
-    It is actually quite amusing that China and North Korea still have institutions like that.
+</p>
+</details>
 
 - About the author of the book
 
