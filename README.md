@@ -171,7 +171,9 @@ Because I am sure it will survive if spread so greatly.
    [GIPE-111035.pdf](https://drive.google.com/file/d/1dDBs3_eN2_GziyJkQUsiF71B0FSbXxCN/view?usp=drivesdk)
 
    The quality wasn't the best but that was already something as I wanted to try to get the content of the book without typing it in myself.
-
+   
+![https://i.pinimg.com/originals/fc/4e/58/fc4e5881299c51849837d2a7aa56e8a8.gif](https://i.pinimg.com/originals/fc/4e/58/fc4e5881299c51849837d2a7aa56e8a8.gif)
+   
    [https://youtu.be/JwmHxxuh4BQ](https://youtu.be/JwmHxxuh4BQ)
 
    Unfortunately, it didn't work at all.
@@ -326,11 +328,11 @@ I believe that it is hard to judge all of the propaganda in the world, history. 
 
 The adjusted 3D models I want to use in the game visualisation of the 3 levels. I rigged the roughly and added animation pre-sets I found in Adobe Mixamo.
 
-[https://youtu.be/6S5aXcJL8wc](https://youtu.be/6S5aXcJL8wc)
+![https://i.pinimg.com/originals/4b/1f/2a/4b1f2ac132f364e02822b0d4ba9f7790.gif](https://i.pinimg.com/originals/4b/1f/2a/4b1f2ac132f364e02822b0d4ba9f7790.gif)
 
-[https://youtu.be/ufeoAZwL5_w](https://youtu.be/ufeoAZwL5_w)
+![https://i.pinimg.com/originals/70/53/b8/7053b8baac869f8ae2717522abf1f534.gif](https://i.pinimg.com/originals/70/53/b8/7053b8baac869f8ae2717522abf1f534.gif)
 
-[https://youtu.be/VYbekF2mgu4](https://youtu.be/VYbekF2mgu4)
+![https://i.pinimg.com/originals/b2/93/a2/b293a2490204ce86366b1bb809f64f99.gif](https://i.pinimg.com/originals/b2/93/a2/b293a2490204ce86366b1bb809f64f99.gif)
 
 Work on the end result continues...
 
