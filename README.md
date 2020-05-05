@@ -161,6 +161,9 @@ Because I am sure it will survive if spread so greatly.
     [Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
 
     I found a pdf of the book online:
+    ![https://i.pinimg.com/564x/14/82/53/14825327df0c91284f78a5c52db1316f.jpg](https://i.pinimg.com/564x/14/82/53/14825327df0c91284f78a5c52db1316f.jpg)
+
+    
 
     [GIPE-111035.pdf](https://drive.google.com/file/d/1dDBs3_eN2_GziyJkQUsiF71B0FSbXxCN/view?usp=drivesdk)
 
@@ -173,7 +176,7 @@ Because I am sure it will survive if spread so greatly.
     Next I decided to use Google Translate on my phone and the result was way better. I used pictures of the book I took at the archive and put the through the Google Translate OCR.
 
     The result of this:
-
+    ![https://i.pinimg.com/originals/9c/e9/20/9ce9204141acb851ae1ecd1c0e52597d.png](https://i.pinimg.com/originals/9c/e9/20/9ce9204141acb851ae1ecd1c0e52597d.png)
     [Mother and Child care content from google translate image.pdf](https://drive.google.com/file/d/1Pa1P62HSe3Wb-a6sWDhzOYp_4VTDl8JY/view?usp=drivesdk)
 
     Notes: The result is very much imperfect, has many typos or in general the OCR didn't recognize the characters correctly. 
@@ -181,27 +184,26 @@ Because I am sure it will survive if spread so greatly.
 
     I saved the outcome as a google doc and used my grammar app to fix the mistakes that were left.
 
-    The end result:
-
+    The end result:</br>
+![https://i.pinimg.com/564x/9e/f8/be/9ef8be0373aeeeb6aa14e7db03778fcc.jpg](https://i.pinimg.com/564x/9e/f8/be/9ef8be0373aeeeb6aa14e7db03778fcc.jpg)
+</br>
+    ![https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png](https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png)
     [Mother and Child Care content fixed with grammar check.pdf](https://drive.google.com/file/d/1svfHp_8CnV92JejIlhMe1i4pLXmjBQN8/view?usp=drivesdk)
 
-    Note: the Grammarly sometimes doesn't change the words to the correct ones and obscures the true meaning.
+   *Note: the Grammarly sometimes doesn't change the words to the correct ones and obscures the true meaning.*
 
-    After that I decided to work with another OCR or find out how to write a code for one.
+   After that I decided to work with another OCR or find out how to write a code for one.
 
 - Using Adobe OCR
 
-    So I took again the terrible pdf I found online:
-
-    [GIPE-111035-Contents.pdf](https://drive.google.com/file/d/1BfoqhKbyWG4a4KW2gTPIcfOQ_2lZyc5g/view?usp=drivesdk)
-
-    And I used Adobe Acrobat's OCR to try to get it to look better and maybe to get better character recognition. 
-
+    So I took again the terrible pdf I found online and I used Adobe Acrobat's OCR to try to get it to look better and maybe to get better character recognition. 
+![https://i.pinimg.com/564x/2e/94/9b/2e949b9dd60a1acbec8e268ff95cb30b.jpg](https://i.pinimg.com/564x/2e/94/9b/2e949b9dd60a1acbec8e268ff95cb30b.jpg)
+![https://i.pinimg.com/564x/29/6c/12/296c125d654bccfda111014b03752741.jpg](https://i.pinimg.com/564x/29/6c/12/296c125d654bccfda111014b03752741.jpg)
     [pdf processed by adobe acrobat.pdf](https://drive.google.com/file/d/1WQpFj5rKBAa3x8qtwv1vF62vr11sPpOh/view?usp=drivesdk)
 
-    It worked way better but still there were some obscurities and some weird spacing and signs it added by itself.
+   It worked way better but still there were some obscurities and some weird spacing and signs it added by itself.
 
-    Note: The result is much better than the Google Translate, yet, I will try to fins something better.
+   *Note: The result is much better than the Google Translate, yet, I will try to fins something better.</br>also to note - everytime I use an OCR the typeface changes - transcoding?*
 
 - My own OCR - Tesseract
 
@@ -217,37 +219,37 @@ Because I am sure it will survive if spread so greatly.
 
     ![https://i.pinimg.com/564x/2e/b4/bc/2eb4bc45fba870baed2ac793c12d5266.jpg](https://i.pinimg.com/564x/2e/b4/bc/2eb4bc45fba870baed2ac793c12d5266.jpg)
 
-    Note: the result is the best so far. The minimal editing of text is kept which is good too (paragraphs). In the end - happy with the result.
+    *Note: the result is the best so far. The minimal editing of text is kept which is good too (paragraphs). In the end - happy with the result.*
 
 - Translating to different languages
 
     I also tried translating me newly acquired better pdf to see if there are more obscurities because of using yet another software on the source text. 
 
     I translated to Russian
-
+![https://i.pinimg.com/originals/24/31/87/24318773d620d66a5f1219e44f457801.png](https://i.pinimg.com/originals/24/31/87/24318773d620d66a5f1219e44f457801.png)
     [Mother and Child from acrobat file google ranslated to Russian Cyryllic.pdf](https://drive.google.com/file/d/1F7-t1KYATMqZ0ydvdazhIpwj-nc7NGMU/view?usp=drivesdk)
 
-    And to Polish
+   And to Polish
+![https://i.pinimg.com/originals/ee/aa/6e/eeaa6ecf555a6317b51ffcf1cc35e7e9.png](https://i.pinimg.com/originals/ee/aa/6e/eeaa6ecf555a6317b51ffcf1cc35e7e9.png)
+   [Mother and Child from acrobat file google ranslated to Polish.pdf](https://drive.google.com/file/d/1exhU1yZCjEsDu5Ns-S_vM-udKfb3YQIS/view?usp=drivesdk)
 
-    [Mother and Child from acrobat file google ranslated to Polish.pdf](https://drive.google.com/file/d/1exhU1yZCjEsDu5Ns-S_vM-udKfb3YQIS/view?usp=drivesdk)
-
-    I don't think that really did help me much with the project overall... But it's another proof of how subjective the understanding of language is and also how subjective the translation can be.
+   I don't think that really did help me much with the project overall... But it's another proof of how subjective the understanding of language is and also how subjective the translation can be.
 
 - Only pure text and it's placement matters
 
     This attempt only saves content as text bus disregards all visual things.
-
+![https://i.pinimg.com/originals/e8/72/67/e87267363e1c0e9da00d9d0b73bee039.png](https://i.pinimg.com/originals/e8/72/67/e87267363e1c0e9da00d9d0b73bee039.png)
     [Instruction for reproduction - content matters.pdf](https://drive.google.com/file/d/1KLYmelR6oWzeu_STG6zbIprsMv9yPLYo/view?usp=drivesdk)
 
-    Note: How much information is saved for the future depends on who and how is describing it.
+   Note: How much information is saved for the future depends on who and how is describing it.
 
 - Visual matters too
 
     Not only text as a content but also visual appearance of it matters. Yet, described by words might come out differently by each reproduction attempt.
-
+![https://i.pinimg.com/564x/a6/dc/ef/a6dcef3de2c0935b3772500438617f3a.jpg](https://i.pinimg.com/564x/a6/dc/ef/a6dcef3de2c0935b3772500438617f3a.jpg)
     [instruction for reproduction - content matters - visuals matters too.pdf](https://drive.google.com/file/d/1EkZwkuWKBexJAC0f79EEAV2V2vfT8MNM/view?usp=drivesdk)
 
-    Note: but still level of detail in describing can be different.
+   *Note: but still level of detail in describing can be different.*
 
 - Visual matters but how much?
 
@@ -255,7 +257,7 @@ Because I am sure it will survive if spread so greatly.
 
     In the end I think it makes it even more subjective on how to reproduce it.
     Still, I could be even more precise or use more objective terms. Like: I'm assuming she's a mother.
-
+![https://i.pinimg.com/564x/e3/4f/fe/e34ffe2acfba86790f75e7863783dc41.jpg](https://i.pinimg.com/564x/e3/4f/fe/e34ffe2acfba86790f75e7863783dc41.jpg)
     [instruction for reproduction - content matters - visuals matters too - how much detail is really needed_.pdf](https://drive.google.com/file/d/1HbFx-wmaL0r7NQd8cs3JjbuiwSPE3XSF/view?usp=drivesdk)
 
 ## Bigger, but not yet final, transcodings:
