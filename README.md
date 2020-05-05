@@ -69,26 +69,27 @@ I found out that the O.P. stands for Olga Pavlovna which suggested that the auth
 
 </p>
 </details>
+<details><summary>Where can you find this book outside of the archive?</summary>
+<p>
+    </br>
+This book is surprisingly wide spread. I found it in several libraries.</br></br>
+[Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)</br>
+[KERALA STATE LIBRARY COUNCIL catalog › Details for: MOTHER AND CHILD CARE IN THE USSR](http://kslc.in/cgi-bin/koha/opac-detail.pl?biblionumber=85367)</br>
+You can still buy it on Amazon:</br>
+[Amazon](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)
 
 
-   
-- Where can you find this book outside of the archive?
+</p>
+</details>
+<details><summary>Fake cover</summary>
+<p>
+    </br>
+The book is often listed with this fake cover. Publishing date suggests that the edition is the same as the one from the archive but then this covers is the image representing the book. Was there something wrong with the old one?
+[![alt text](/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg)](https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/ "Title")
+</p>
+</details>
 
-    This book is surprisingly wide spread. I found it in several libraries.
 
-    [Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)
-
-    [KERALA STATE LIBRARY COUNCIL catalog › Details for: MOTHER AND CHILD CARE IN THE USSR](http://kslc.in/cgi-bin/koha/opac-detail.pl?biblionumber=85367)
-
-    You can still buy it on Amazon:
-
-    [](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)
-
-- Fake cover
-
-    The book is often listed with this fake cover. Publishing date suggests that the edition is the same as the one from the archive but then this covers is the image representing the book. Was there something wrong with the old one?
-
-    [71V76ErPvCL.jpg](https://drive.google.com/file/d/1zzAPc-cOs_3mrTcTtnsFw1ClKqBbWxXS/view?usp=drivesdk)
 
 ---
 
