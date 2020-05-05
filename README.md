@@ -18,10 +18,10 @@ As the list is chronological it also shows how I got better with using the archi
 
 ![https://i.pinimg.com/originals/c8/81/84/c881846cbbcda531815828d64993a6a4.jpg](https://i.pinimg.com/originals/c8/81/84/c881846cbbcda531815828d64993a6a4.jpg)
 
-*Book summary:
-→ women are equal to men (by revolution!)
-→ raising children and childcare are a common effort
-→ having or not having children is a free choice*
+*Book summary:*</br>
+*→ women are equal to men (by revolution!)*</br>
+*→ raising children and childcare are a common effort*</br>
+*→ having or not having children is a free choice*</br>
 
 The entire book in high quality pictures.
 
@@ -37,20 +37,28 @@ The entire book in high quality pictures.
 
 <details><summary>About the publishing house</summary>
 <p>
-The book was published as a piece of propaganda targeted at the Western population.
-    [Foreign Languages Publishing House (Soviet Union)](https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))
-    *It is actually quite amusing that China and North Korea still have institutions like that.*
+    </br>
+The book was published as a piece of propaganda targeted at the Western population.</br>
+    Foreign Languages Publishing House Soviet Union
+    </br>
+   (https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))</br></br>
+    It is actually quite amusing that China and North Korea still have institutions like that.
 
 </p>
 </details>
+
 <details><summary>About the author of the book</summary>
 <p>
-I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman.</br>
-        [Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)</br>
+    </br>
+I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman.</br></br>
+     Nogina, O. P. (Olʹga Pavlovna) 1885-1977 </br> (http://worldcat.org/identities/lccn-n2012183966/)</br></br>
         Found this Wikipedia entry in Cyrillic but it google translates pretty ok.</br>
-    [](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)</br>
-    * Her name is Ногина, Ольга Павловна
-    * 1885 - 1977
+    (https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)
+    </br>
+    </br>
+    
+    - Her name is Ногина, Ольга Павловна
+    - 1885 - 1977
     - Soviet paediatrician, Honoured Doctor of the RSFSR , organizer of Soviet health care
     - She worked with a group of Bolsheviks led by V. I. Lenin
     - She headed the maternity and infancy protection department of the health department of the Khamovnichesky district of Moscow
@@ -58,10 +66,6 @@ I found out that the O.P. stands for Olga Pavlovna which suggested that the auth
     - In 1934 - Head of the Department for the Protection of Maternity and Infancy of the People's Commissariat of Health
     - Worked on creation of a network of women's and children's health care facilities, in training personnel, and in promoting Soviet health care
     - She wrote around 30 books on and around the subject of health and wellbeing
-    
-    * Item
-    * Item
-
 
 </p>
 </details>
