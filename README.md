@@ -264,32 +264,28 @@ Because I am sure it will survive if spread so greatly.
 
     ![https://i.pinimg.com/originals/c2/53/65/c25365a4d8fc81935de4aca2f93bec37.jpg](https://i.pinimg.com/originals/c2/53/65/c25365a4d8fc81935de4aca2f93bec37.jpg)
 
-    Descriptions:
+|Descriptions:|
+|---|
+| 1. Two women standing above a wooden construction made of posts. In the construction 4 children.|
+| 2. Two women, one doctor the other a nurse bending towards 4 children in the playpen. Windows and plants in the background.|
+|3. Two women, one doctor the other a nurse bending towards 4 children in the hencoop.|
 
-    1. Two women standing above a wooden construction made of posts. In the construction 4 children.
-    2. Two women, one doctor the other a nurse bending towards 4 children in the playpen. Windows and plants in the background.
-    3. Two women, one doctor the other a nurse bending towards 4 children in the hencoop.
+   I googled the descriptions:
 
-    I googled the descriptions:
+   Maybe I should only google the keywords...
 
-    Maybe I should only google the keywords...
+   *Two women standing above a wooden construction made of posts. In the construction 4 children.*
 
-    Two women standing above a wooden construction made of posts. In the construction 4 children.
+   to *Two women standing wooden construction posts 4 children*
 
-    to
+   ![https://i.pinimg.com/originals/37/bf/69/37bf6941b2143912ece0c2335bd065ac.jpg](https://i.pinimg.com/originals/37/bf/69/37bf6941b2143912ece0c2335bd065ac.jpg)
 
-    Two women standing wooden construction posts 4 children
+   2. *Two women, one doctor the other a nurse bending towards 4 children in the playpen. Windows and plants in the background.*
 
-    ![https://i.pinimg.com/originals/37/bf/69/37bf6941b2143912ece0c2335bd065ac.jpg](https://i.pinimg.com/originals/37/bf/69/37bf6941b2143912ece0c2335bd065ac.jpg)
+   to *two women doctor nurse 4 children playpen windows plants*
 
-    2. Two women, one doctor the other a nurse bending towards 4 children in the playpen. Windows and plants in the background. 
-
-    to
-
-    two women doctor nurse 4 children playpen windows plants
-
-    ![https://i.pinimg.com/originals/7f/73/c4/7f73c4f96baa55300569c58b88396dc2.png](https://i.pinimg.com/originals/7f/73/c4/7f73c4f96baa55300569c58b88396dc2.png)
-
+   ![https://i.pinimg.com/originals/7f/73/c4/7f73c4f96baa55300569c58b88396dc2.png](https://i.pinimg.com/originals/7f/73/c4/7f73c4f96baa55300569c58b88396dc2.png)
+</br></br>
     Note: It would be nice to have a code to do it. Maybe even collage it.
     It proofs yet again how subjective medium language is in keeping the information.
 
