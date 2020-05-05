@@ -39,9 +39,9 @@ The entire book in high quality pictures.
 <p>
     </br>
 The book was published as a piece of propaganda targeted at the Western population.</br>
-    Foreign Languages Publishing House Soviet Union
-    </br>
-   (https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))</br></br>
+
+   [Foreign Languages Publishing House Soviet Union](https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))
+   
     It is actually quite amusing that China and North Korea still have institutions like that.
 
 </p>
@@ -50,12 +50,12 @@ The book was published as a piece of propaganda targeted at the Western populati
 <details><summary>About the author of the book</summary>
 <p>
     </br>
-I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman.</br></br>
-     Nogina, O. P. (Olʹga Pavlovna) 1885-1977 </br> (http://worldcat.org/identities/lccn-n2012183966/)</br></br>
-        Found this Wikipedia entry in Cyrillic but it google translates pretty ok.</br>
-    (https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)
-    </br>
-    </br>
+I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman.
+
+   [Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)
+   
+   [Found this Wikipedia entry in Cyrillic but it google translates pretty ok.](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)
+   
     
     - Her name is Ногина, Ольга Павловна
     - 1885 - 1977
@@ -73,10 +73,12 @@ I found out that the O.P. stands for Olga Pavlovna which suggested that the auth
 <p>
     </br>
 This book is surprisingly wide spread. I found it in several libraries.</br></br>
-[Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)</br>
+
+[Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)
+
 [KERALA STATE LIBRARY COUNCIL catalog › Details for: MOTHER AND CHILD CARE IN THE USSR](http://kslc.in/cgi-bin/koha/opac-detail.pl?biblionumber=85367)</br>
-You can still buy it on Amazon:</br>
-[Amazon](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)
+
+[You can still buy it on Amazon.](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)
 
 
 </p>
@@ -85,7 +87,9 @@ You can still buy it on Amazon:</br>
 <p>
     </br>
 The book is often listed with this fake cover. Publishing date suggests that the edition is the same as the one from the archive but then this covers is the image representing the book. Was there something wrong with the old one?
-![https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/](https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/)
+
+![https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg](https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg)
+
 </p>
 </details>
 
