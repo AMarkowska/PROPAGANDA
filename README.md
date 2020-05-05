@@ -5,7 +5,7 @@
 # THE ARTEFACT
 
 In the archive, at IISH, I was mostly drawn to objects and collections concerning women. Among them, I found pieces from USSR and made them my research focus. Below you'll find a full list of objects I looked at and some that I marked as interesting.
-
+</br>
 I put them here not to simply do so but also because looking at them made it clearer for me what I want to work with. Also they are a nice reference list. 
 
 ### All of the objects I saw in the archive
@@ -85,7 +85,7 @@ You can still buy it on Amazon:</br>
 <p>
     </br>
 The book is often listed with this fake cover. Publishing date suggests that the edition is the same as the one from the archive but then this covers is the image representing the book. Was there something wrong with the old one?
-[![alt text](/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg)](https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/ "Title")
+![https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/](https://i.pinimg.com/564x/b4/4e/04/b44e0423d7b5fcf5ecd7dccb7dcb6842.jpg/)
 </p>
 </details>
 
@@ -103,7 +103,7 @@ The book is often listed with this fake cover. Publishing date suggests that the
 
  Is propaganda always bad?
 
- *Why?*
+ *Why?*</br>
 If this book and its contents was so important for the USSR to be translated, printed and sent to other countries wouldn't it be important to keep it spread an accessible. If it was so crucial to share it should be shared and shared and shared. Quite mindlessly. That's why I want to explore the most mass, accessible and easiest to reconstruct methods. 
 Another challenge is how to make it accessible to masses in the future? 
 Because I am sure it will survive if spread so greatly.
@@ -162,6 +162,7 @@ Because I am sure it will survive if spread so greatly.
 
     I found a pdf of the book online:
     ![https://i.pinimg.com/564x/14/82/53/14825327df0c91284f78a5c52db1316f.jpg](https://i.pinimg.com/564x/14/82/53/14825327df0c91284f78a5c52db1316f.jpg)
+    </br>
 
     
 
@@ -186,8 +187,7 @@ Because I am sure it will survive if spread so greatly.
 
     The end result:</br>
 ![https://i.pinimg.com/564x/9e/f8/be/9ef8be0373aeeeb6aa14e7db03778fcc.jpg](https://i.pinimg.com/564x/9e/f8/be/9ef8be0373aeeeb6aa14e7db03778fcc.jpg)
-</br>
-    ![https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png](https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png)
+![https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png](https://i.pinimg.com/originals/1a/2a/db/1a2adbade3773f4044db4a4bdcd67836.png)
     [Mother and Child Care content fixed with grammar check.pdf](https://drive.google.com/file/d/1svfHp_8CnV92JejIlhMe1i4pLXmjBQN8/view?usp=drivesdk)
 
    *Note: the Grammarly sometimes doesn't change the words to the correct ones and obscures the true meaning.*
@@ -239,6 +239,7 @@ Because I am sure it will survive if spread so greatly.
 
     This attempt only saves content as text bus disregards all visual things.
 ![https://i.pinimg.com/originals/e8/72/67/e87267363e1c0e9da00d9d0b73bee039.png](https://i.pinimg.com/originals/e8/72/67/e87267363e1c0e9da00d9d0b73bee039.png)
+</br>
     [Instruction for reproduction - content matters.pdf](https://drive.google.com/file/d/1KLYmelR6oWzeu_STG6zbIprsMv9yPLYo/view?usp=drivesdk)
 
    Note: How much information is saved for the future depends on who and how is describing it.
@@ -247,6 +248,7 @@ Because I am sure it will survive if spread so greatly.
 
     Not only text as a content but also visual appearance of it matters. Yet, described by words might come out differently by each reproduction attempt.
 ![https://i.pinimg.com/564x/a6/dc/ef/a6dcef3de2c0935b3772500438617f3a.jpg](https://i.pinimg.com/564x/a6/dc/ef/a6dcef3de2c0935b3772500438617f3a.jpg)
+</br>
     [instruction for reproduction - content matters - visuals matters too.pdf](https://drive.google.com/file/d/1EkZwkuWKBexJAC0f79EEAV2V2vfT8MNM/view?usp=drivesdk)
 
    *Note: but still level of detail in describing can be different.*
@@ -258,6 +260,7 @@ Because I am sure it will survive if spread so greatly.
     In the end I think it makes it even more subjective on how to reproduce it.
     Still, I could be even more precise or use more objective terms. Like: I'm assuming she's a mother.
 ![https://i.pinimg.com/564x/e3/4f/fe/e34ffe2acfba86790f75e7863783dc41.jpg](https://i.pinimg.com/564x/e3/4f/fe/e34ffe2acfba86790f75e7863783dc41.jpg)
+</br>
     [instruction for reproduction - content matters - visuals matters too - how much detail is really needed_.pdf](https://drive.google.com/file/d/1HbFx-wmaL0r7NQd8cs3JjbuiwSPE3XSF/view?usp=drivesdk)
 
 ## Bigger, but not yet final, transcodings:
