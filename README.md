@@ -130,7 +130,7 @@ Because I am sure it will survive if spread so greatly.
 
 I found a pdf of the book online:
 ![pdf](/media/pdfscan.jpg)
-[GIPE-111035.pdf](https://drive.google.com/file/d/1dDBs3_eN2_GziyJkQUsiF71B0FSbXxCN/view?usp=drivesdk)
+[the entire pdf](https://drive.google.com/file/d/1dDBs3_eN2_GziyJkQUsiF71B0FSbXxCN/view?usp=drivesdk)
 
 I really wanted to be able to work with the clean content of the book but without a need of re-typing it myself. Also, the extraction of content-text would be already a sort of transcoding. Taking the text out of the context of physical objects was one of my first research questions. How much the physical aspects matter? How much information does it convey? Is that information extra or necessary?
 
@@ -146,12 +146,12 @@ Coming back to the book's pdf I found online the quality wasn't the best but tha
 I decided to use a range of Optical Character Recognition systems, Softwares, and APIs to achieve my "pure text copy". I started from the most straight forward and proceeded to the more advanced.
 
 ### Tools
-[In order of use:]()
-[Google Translate](https://en.wikipedia.org/wiki/Google_Translate)
-[Google Translate OCR](https://en.wikipedia.org/wiki/Google_Translate)
-[Grammarly](https://en.wikipedia.org/wiki/Grammarly)
-[Adobe Acrobat built in OCR](https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html)
-[Tesseract for Windows](https://en.wikipedia.org/wiki/Tesseract_(software))
+In order of use:</br>
+[Google Translate](https://en.wikipedia.org/wiki/Google_Translate)</br>
+[Google Translate OCR](https://en.wikipedia.org/wiki/Google_Translate)</br>
+[Grammarly](https://en.wikipedia.org/wiki/Grammarly)</br>
+[Adobe Acrobat built in OCR](https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html)</br>
+[Tesseract for Windows](https://en.wikipedia.org/wiki/Tesseract_(software))</br>
 
 ## Transcoding Tool
 ### Code for using Tesseract OCR
@@ -165,17 +165,17 @@ The OCR doesn't allow you to do more than one image (page in that case) at once 
 
 ### Results
 ![translating](/media/gif1.gif)
-![google translate](/media/google translate 1.jpg)
-![google translate](/media/google translate.jpg)
+![google translate](/media/googletranslate1.jpg)
+![google translate](/media/googletranslate.jpg)
 ![grammarly](/media/grammarly.jpg)
-![google translate](/media/google translate 2.jpg)
+![google translate](/media/google translate2.jpg)
 ![Polish and Russian](/media/polishandrussian.jpg)
-![Tesseract](/media/tesseract 1.jpg)
-![Tesseract](/media/tesseract 2.jpg)
+![Tesseract](/media/tesseract1.jpg)
+![Tesseract](/media/tesseract2.jpg)
 
 ### Source Links
-[OCR with Tesseract](https://nanonets.com/blog/ocr-with-tesseract/)
-[How to Install and Use Tesseract OCR on Windows](https://www.youtube.com/watch?v=2kWvk4C1pMo)
+[OCR with Tesseract](https://nanonets.com/blog/ocr-with-tesseract/)</br>
+[How to Install and Use Tesseract OCR on Windows](https://www.youtube.com/watch?v=2kWvk4C1pMo)</br>
 [A Beginners Guide to Tesseract OCR Using Python](https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d)
 
 ## Reflection
@@ -241,10 +241,10 @@ This iBy using scripting I want to generate 3 levels of the game that would touc
 
 ### Results
 ![models](/media/models.jpg)
-![models in space](/media/modelsinsoace.jpg)
-![animations](/media/gif2.gif)
-![animations](/media/gif3.gif)
-![animations](/media/gif4.gif)
+![models in space](/media/modelsinspace.jpg)
+![animations](/media/2.gif)
+![animations](/media/3.gif)
+![animations](/media/4.gif)
 
 ### Source Links
 
