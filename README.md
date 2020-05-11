@@ -164,12 +164,22 @@ The Tesseract OCR runs on C++, but you can also use Python. There were only smal
 The OCR doesn't allow you to do more than one image (page in that case) at once so the process becomes slow but gives the best result from all tested OCR.
 
 ### Results
-![translating](/media/gif1.gif)
-![google translate](/media/googletranslate1.jpg)
-![google translate](/media/googletranslate.jpg)
+At first, I tried straight uploading the found pdf and translating it with Google translate.
+![translating](/media/1.gif)
+But it didn't work at all. It was too much to process apparently although I separated just few pages from the book.
+![google translate](/media/googletranslate2.jpg)
+The result is very much imperfect, has many typos or in general the OCR didn't recognize the characters correctly.
+    Is it still a good transcoding? After that, I tried using the translation from the picture option. I used pictures that I took of the book while visiting the archive.
 ![grammarly](/media/grammarly.jpg)
-![google translate](/media/google translate2.jpg)
+I also tried to fix the outcome a bit with Grammarly. It uses artificial intelligence and natural language processing to fix grammar mistakes but sometimes also recognizes typos. You can see the text before (left) and after that (right) below. The Grammarly software sometimes doesn't change the words to the correct ones and obscures the true meaning
+![google translate](/media/googletranslate.jpg)
+I wasn't very happy with the result. there were many different punctuation and signs added that aren't there in the original. Then I realized after a moment of reading about different OCRs that adobe acrobat also has one. I took the basic pdf I found online and put it through.
+![adobe](/media/adobe.jpg)
+The result was way better but I still wanted to see if I can improve it. Then I also tried translating it to different languages using Google Translate just to see what happens.
+![google translate](/media/googletranslate1.jpg)
+Russian (left) and Polish (right) translation
 ![Polish and Russian](/media/polishandrussian.jpg)
+To improve the output and avoid those "hieroglyphs" added by other OCRs I decided to use Tesseract. You can see the .txt outcome file on the right.
 ![Tesseract](/media/tesseract1.jpg)
 ![Tesseract](/media/tesseract2.jpg)
 
@@ -179,7 +189,7 @@ The OCR doesn't allow you to do more than one image (page in that case) at once 
 [A Beginners Guide to Tesseract OCR Using Python](https://medium.com/better-programming/beginners-guide-to-tesseract-ocr-using-python-10ecbb426c3d)
 
 ## Reflection
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. How much information is saved for the future depends on who and how is describing it.
 
 ## Transcoding No. 2
 ### Subjective nature of language
@@ -192,15 +202,21 @@ I decided to use two methods to visualize that - using the image and using words
 In order of use:
 Google search
 
+### Results - words
+In this exercise, I describe the cover to see how much information can be really coveted with language. It also shows the subjectivity of the action because it really depends on the describing person and their focus points. Should what we archive depend on one person's view?
+![2](/media/language2.jpg)
+More details...
+![3](/media/language3.jpg)
+Ande even more...
+![1](/media/language1.jpg)
+But still subjective and a lot of guessing.
+
 ### Results - visual
+Using the descriptions from the previous exercise, I tried googling the keywords. In the end, I think it makes it even more subjective on how to reproduce it. Still, I could be even more precise or use more objective terms. Like: I'm assuming she's a mother.
+![spread](/media/spread.jpg)
 ![1](/media/search1.jpg)
 ![2](/media/search1.jpg)
 ![3](/media/search1.jpg)
-
-### Results - words
-![1](/media/language1.jpg)
-![2](/media/language2.jpg)
-![3](/media/language3.jpg)
 
 ## Transcoding Tool
 ### Agata - little robot
