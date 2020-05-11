@@ -48,9 +48,9 @@ The "Mother and Child Care in the USSR" book by O.P. Nogina
    The fact that this book got published is quite curious because the author wasn't always in line with the state's propaganda. From what I researched it seems it's because she turned her ideas into a pretty, but untrue picture and claimed that Lenin himself wanted her to spread that vision. That argument has no proof but probably made the book pass the censorship because it would work well as propaganda targeted at the West.
 
 ### About the author of the book
-The first thing I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman. After that, the research became easier as more sources came up in the google search typing in her name in both Latin and Cyrillic alphabets.
-[Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)
-[Found this Wikipedia entry in Cyrillic but it google translates pretty ok. Also, I checked later with my mother who can read it.](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)
+The first thing I found out that the O.P. stands for Olga Pavlovna which suggested that the author was a woman. After that, the research became easier as more sources came up in the google search typing in her name in both Latin and Cyrillic alphabets.</br>
+[Nogina, O. P. (Olʹga Pavlovna) 1885-1977](http://worldcat.org/identities/lccn-n2012183966/)</br>
+[Found this Wikipedia entry in Cyrillic but it google translates pretty ok. Also, I checked later with my mother who can read it.](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0)</br>
 
 Her name was Ногина, Ольга Павловна in Cyrillic. She lived from 1885 till 1977. She was a Soviet pediatrician. Also, became an Honoured Doctor of RSFSR (Russian Soviet Federative Socialist Republic) and was a prime organizer of Soviet Health Care.
 
