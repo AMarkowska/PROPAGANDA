@@ -26,14 +26,16 @@ The "Mother and Child Care in the USSR" book by O.P. Nogina
 | **Materials** | Paper, Cardboard, Staples
 | **Date** | 1950, Moscow
 |![cover of the book](/media/covercover.jpg)| In the picture, you can see the cover of the book. It's a photomontage of a woman holding a child. The baby is out of proportion and you can see an uneven transition between cutouts of woman and the child. In the background, there is a blooming tree. The title on the cover is in English.
+
 ![more pictures](/media/bookcover.jpg)
+
 
 ## Research about the Object
 
-### Book summary
-*→ women are equal to men (by revolution!)*
-*→ raising children and childcare are a common effort*
-*→ having or not having children is a free choice*
+### Book summary</br>
+*→ women are equal to men (by revolution!)*</br>
+*→ raising children and childcare are a common effort*</br>
+*→ having or not having children is a free choice*</br>
 
 [Entire book in high quality.](https://drive.google.com/drive/folders/1rAQ68o4MT1pCa_SZJ0aqsiEx6oc_v7AA)
 
