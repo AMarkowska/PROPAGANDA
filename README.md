@@ -40,8 +40,8 @@ The "Mother and Child Care in the USSR" book by O.P. Nogina
 [Entire book in high quality.](https://drive.google.com/drive/folders/1rAQ68o4MT1pCa_SZJ0aqsiEx6oc_v7AA)
 
 ### About the publishing house
-    The book was published as a piece of propaganda targeted at the Western population.</br>
-   [Foreign Languages Publishing House Soviet Union](https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))
+   The book was published as a piece of propaganda targeted at the Western population.</br>
+   [Foreign Languages Publishing House Soviet Union](https://en.wikipedia.org/wiki/Foreign_Languages_Publishing_House_(Soviet_Union))</br>
 
    The sole purpose of FLPH in the USSR (there are/were more establishment's called similarly in all communist countries) was to publish works of Soviet propaganda, often works of Lenin and Stalin.
 
