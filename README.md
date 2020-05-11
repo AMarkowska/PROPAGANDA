@@ -61,11 +61,11 @@ Later in 50', she was the head of the maternity and infancy protection departmen
 Nevertheless, she worked on the creation of a network of women's and children's health care facilities, in training personnel, and in promoting Soviet health care and wrote around 30 books on and around the subject of health and wellbeing.
 
 ### Where can you find this book outside of the archive?
-This book is surprisingly wide spread. I found it in several libraries.</br></br>
+This book is surprisingly wide spread. I found it in several libraries.</br>
 
-[Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)
+[Mother and child care in the USSR / O.P. Nogina | National Library of Australia](https://catalogue.nla.gov.au/Record/4901770)</br>
 [KERALA STATE LIBRARY COUNCIL catalog › Details for: MOTHER AND CHILD CARE IN THE USSR](http://kslc.in/cgi-bin/koha/opac-detail.pl?biblionumber=85367)</br>
-[You can still buy it on Amazon.](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)
+[You can still buy it on Amazon.](https://www.amazon.co.uk/Books-O-P-Nogina/s?rh=n%3A266239%2Cp_27%3AO+P+Nogina)</br>
 
 The book is often listed with this fake cover. Publishing date suggests that the edition is the same as the one from the archive but then this covers is the image representing the book. Was there something wrong with the old one?
 ![fake cover](/media/fakecover.jpg)
