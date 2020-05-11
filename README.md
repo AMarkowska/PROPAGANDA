@@ -14,14 +14,17 @@
     2. [Strategy](#strategy)
     3. [Transcoding No. 1](#transcoding-no-1)
     4. [Transcoding Tool No. 1](#transcoding-tool-no-1)
-    3. [Transcoding No. 1](#transcoding-no-2)
-    4. [Transcoding Tool No. 1](#transcoding-tool-no-2)
-    3. [Transcoding No. 1](#transcoding-no-3)
-    4. [Transcoding Tool No. 1](#transcoding-tool-no-3)
+    3. [Transcoding No. 2](#transcoding-no-2)
+    4. [Transcoding Tool No. 2](#transcoding-tool-no-2)
+    3. [Transcoding No. 3](#transcoding-no-3)
+    4. [Transcoding Tool No. 3](#transcoding-tool-no-3)
 3. [Reflection](#Reflection)
 4. [Outcome](#Outcome)
 5. [Conclusion](#Conclusion)
 6. [Bibliography](#Bibliography)
+    1. [Other things I saw in the archive](#all-of-the-objects-I-saw-in-the-archive)
+    2. [Readings](#readings:)
+    3. [Podcasts](#podcasts:)
 
 # Artefact
 The "Mother and Child Care in the USSR" book by O.P. Nogina
