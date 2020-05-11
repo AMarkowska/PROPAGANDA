@@ -212,11 +212,12 @@ Ande even more...
 But still subjective and a lot of guessing.
 
 ### Results - visual
-Using the descriptions from the previous exercise, I tried googling the keywords. In the end, I think it makes it even more subjective on how to reproduce it. Still, I could be even more precise or use more objective terms. Like: I'm assuming she's a mother.
+Using the same description method as in the previous exercise, I tried googling the keywords connected with the illustration on the spread below. In the end, I think it makes it even more subjective on how to reproduce it. 
+
+Still, I could be even more precise or use more objective terms. Like: I'm assuming the woman could be a mother but I have no certainty.
 ![spread](/media/spread.jpg)
 ![1](/media/search1.jpg)
-![2](/media/search1.jpg)
-![3](/media/search1.jpg)
+![2](/media/search2.jpg)
 
 ## Transcoding Tool
 ### Agata - little robot
