@@ -23,8 +23,8 @@
 5. [Conclusion](#Conclusion)
 6. [Bibliography](#Bibliography)
     1. [Other things I saw in the archive](#all-of-the-objects-I-saw-in-the-archive)
-    2. [Readings](#readings:)
-    3. [Podcasts](#podcasts:)
+    2. [Readings](#readings)
+    3. [Podcasts](#podcasts)
 
 # Artefact
 The "Mother and Child Care in the USSR" book by O.P. Nogina
@@ -294,7 +294,7 @@ Will come soon :) Or like Teenage Mutant Ninja Turtles - TBC in the next episode
 [Things I saw in the archive](https://www.notion.so/e0a7c1c16016455da150344fed87070a)
 As the list is chronological it also shows how I got better with using the archive's codes and how searching became easier. Many things are also references from previously read books and artefacts from the archive.
 
-### Readings:
+### Readings
 
 - 21 Lessons for the 21-Century | Yuval Noah Harari
 - Sapiens | Yuval Noah Harari
@@ -308,7 +308,7 @@ As the list is chronological it also shows how I got better with using the archi
 - Russian women's studies: essays on sexism in Soviet culture | Tatyana Mamonova, Margaret Maxwell
 - USSR : public health,social security, housing | B. Petrovsky, D. Komarova, G. Fomin
 
-### Podcast:
+### Podcast
 
 - 99% Invisible | Fraktur
 - The Secret History of the Future | New Media, Old Story
