@@ -24,7 +24,7 @@
 6. [Bibliography](#Bibliography)
     1. [Other things I saw in the archive](#all-of-the-objects-I-saw-in-the-archive)
     2. [Readings](#readings)
-    3. [Podcasts](#podcasts)
+    3. [Podcast](#podcast)
 
 # Artefact
 The "Mother and Child Care in the USSR" book by O.P. Nogina
