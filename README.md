@@ -2,16 +2,26 @@
 # PROPAGANDA - Is it always bad and how archiving it helps us understand the past?
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+    2. [Research about the Object](#research-about-the-object)
+    3. [About the publishing house](#about-the-publishing-house)
+    4. [About the author of the book](#about-the-author-of-the-book)
+    5. [Where can you find this book outside of the archive?](#where-can-you-find-this-book-outside-of-the-archive?)
+    6. [Important terms and research questions](#important-terms-and-research-questions)
+2. [Transcoding](#transcoding)
+    1. [Focus of the transcodings:](#focus-of-the-transcodings)
+    2. [Strategy](#strategy)
+    3. [Transcoding No. 1](#transcoding-no-1)
+    4. [Transcoding Tool No. 1](#transcoding-tool-no-1)
+    3. [Transcoding No. 1](#transcoding-no-2)
+    4. [Transcoding Tool No. 1](#transcoding-tool-no-2)
+    3. [Transcoding No. 1](#transcoding-no-3)
+    4. [Transcoding Tool No. 1](#transcoding-tool-no-3)
+3. [Reflection](#Reflection)
+4. [Outcome](#Outcome)
+5. [Conclusion](#Conclusion)
+6. [Bibliography](#Bibliography)
 
 # Artefact
 The "Mother and Child Care in the USSR" book by O.P. Nogina
@@ -153,7 +163,7 @@ In order of use:</br>
 [Adobe Acrobat built in OCR](https://acrobat.adobe.com/us/en/acrobat/how-to/ocr-software-convert-pdf-to-text.html)</br>
 [Tesseract for Windows](https://en.wikipedia.org/wiki/Tesseract_(software))</br>
 
-## Transcoding Tool
+## Transcoding Tool No. 1
 ### Code for using Tesseract OCR
 
 ### Aims
@@ -219,7 +229,7 @@ Still, I could be even more precise or use more objective terms. Like: I'm assum
 ![1](/media/search1.jpg)
 ![2](/media/search2.jpg)
 
-## Transcoding Tool
+## Transcoding Tool No. 2
 ### Agata - little robot
 There wasn't really a tool I developed for this. I rather simulated how the code could work manually. I would very gladly work on some OCR that would define images by words but the time and knowledge available didn't allow it.
 
@@ -245,7 +255,7 @@ Mixamo
 C# Scripting in Unity
 Visual Studio
 
-## Transcoding Tool
+## Transcoding Tool No. 3
 ### Unity enviorment and C# Scripting
 By generating three levels of the game in Unity I want to give a context and gain a platform to explain my findings and opinion about propaganda.
 Also, to talk efficiently about mindless mass reproduction scripting is necessary. C# will be also needed for more trivial but needed functionalities - like "traveling" between levels.
