@@ -26,7 +26,7 @@
     2. [Readings](#readings)
     3. [Podcast](#podcast)
 
-# Artefact
+## Artefact
 The "Mother and Child Care in the USSR" book by O.P. Nogina
 
 ## Metadata
@@ -276,16 +276,12 @@ This iBy using scripting I want to generate 3 levels of the game that would touc
 ![animations](/media/3.gif)
 ![animations](/media/4.gif)
 
-### Source Links
-
 ## Reflection
-
+It proved to be a challenging project for me. I lost directions and failed to communicate it properly. I didn't know how to continue the project and although technically planned it in the end it missed a message to communicate.
 ## Outcomes
-
+I was too late with the final outcome and also because of program crash failed to provide the final outcome documentation. 
+I managed to save only sound files and in time before collectives to recreate some of the animations.
 ### Outcome Links
-
-## Conclusion
-Will come soon :) Or like Teenage Mutant Ninja Turtles - TBC in the next episode...
 
 ## Bibliography
 (in chronological order)
